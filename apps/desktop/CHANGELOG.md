@@ -1,5 +1,12 @@
 # 更新日志
 
+## [1.1.1](https://github.com/TouchAI-org/TouchAI/compare/v1.1.0...v1.1.1) (2026-06-03)
+
+
+### Bug Fixes
+
+* **desktop:** invalidate MiMo managed auth on bare 401 ([#408](https://github.com/TouchAI-org/TouchAI/issues/408)) ([6199d1c](https://github.com/TouchAI-org/TouchAI/commit/6199d1c65879b9fdca2257b405f627f37df4fa1a))
+
 ## [1.1.0](https://github.com/TouchAI-org/TouchAI/compare/v1.0.0...v1.1.0) (2026-06-03)
 
 
